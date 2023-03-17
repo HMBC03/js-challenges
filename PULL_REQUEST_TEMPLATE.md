@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:Hector Beltran
+Nombre:
 Usuario Platzi:
 
 ## Reto:
 
-- [* ] Primer problema
-- [ *] Segundo problema
-- [ *] Tercer problema
+- [ ] Primer problema
+- [ ] Segundo problema
+- [ ] Tercer problema
